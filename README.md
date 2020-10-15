@@ -15,7 +15,7 @@ Takes input as imdb url and item count for top movies and outputs JSON with movi
 ```
 
 
-# run bash script 
+### run bash script 
 ```
 chmod +x imdb_chart_fetcher
 ./imdb_chart_fetcher 'https://www.imdb.com/india/top-rated-indian-movies' 5
