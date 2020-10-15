@@ -12,4 +12,4 @@ For macOS
 6. pip install lxml
 
 # run bash script
-#./imdb_chart_fetcher 'https://www.imdb.com/india/top-rated-indian-movies' 5
+`./imdb_chart_fetcher 'https://www.imdb.com/india/top-rated-indian-movies' 5`
