@@ -6,7 +6,7 @@ Takes input as imdb url and item count for top movies and outputs JSON with movi
 ###### Python 2.x is required
 ###### Pip installation required to install python packages
 
-###### Packages required:
+###### Packages intallation:
 ```
 1. pip install bs4
 2. pip install BeautifulSoup
