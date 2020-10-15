@@ -6,7 +6,7 @@ Takes input as imdb url and item count for top movies and outputs JSON with movi
 ###### Python 2.x is required
 ###### Pip installation required to install python packages
 
-######## Packages required:
+###### Packages required:
 ```
 1. pip install bs4
 2. pip install BeautifulSoup
@@ -17,7 +17,7 @@ Takes input as imdb url and item count for top movies and outputs JSON with movi
 
 # run bash script 
 ```
-chmod +x imdb_charg_fetcher
+chmod +x imdb_chart_fetcher
 ./imdb_chart_fetcher 'https://www.imdb.com/india/top-rated-indian-movies' 5
 ```
 
