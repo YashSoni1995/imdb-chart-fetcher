@@ -13,3 +13,5 @@ For macOS
 
 # run bash script
 `./imdb_chart_fetcher 'https://www.imdb.com/india/top-rated-indian-movies' 5`
+
+You might need to give executable permission to imdb_chart_fetcher file before running the above command - `chmod +x imdb_charg_fetcher`
