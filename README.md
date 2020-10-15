@@ -12,5 +12,5 @@ For macOS
 6. pip install lxml
 
 # run bash script
-chmod +x imdb_chart_fetcher
+`chmod +x imdb_chart_fetcher`
 ./imdb_chart_fetcher 'https://www.imdb.com/india/top-rated-indian-movies' 5
