@@ -13,4 +13,4 @@ For macOS
 
 # run bash script
 `chmod +x imdb_chart_fetcher`
-```./imdb_chart_fetcher 'https://www.imdb.com/india/top-rated-indian-movies' 5```
+#./imdb_chart_fetcher 'https://www.imdb.com/india/top-rated-indian-movies' 5
